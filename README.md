@@ -35,3 +35,5 @@ Como exemplo, vou citar algumas causas que podem contribuir para o aumento da in
 Em tópicos futuros explicarei como cada um afeta a inflação.
 
 Agora, utilizando a linguagem Python, fiz a análise da inflação no Brasil utilizando IPCA e sua cesta de produtos e serviços como base.
+
+OBS: O site https://sidra.ibge.gov.br/home/ipca/brasil só disponibilizou os dados até 11/2022.
